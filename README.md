@@ -7,8 +7,9 @@ Pre-req:
 ## Installation
 Unzip sample.gz in root folder
 
-
+```
 python3 -m venv env
 source env/bin/activate
 pip3 install -r requirements.txt
 jupyter-notebook
+```
