@@ -1,0 +1,5 @@
+jupyterlab
+pandas
+SQLAlchemy
+pyspark
+lxml
